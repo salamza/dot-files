@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/sms/.WebIde110'
+let g:netrw_dirhist_2='/home/sms/sandbox/homestead-3.0.2'
+let g:netrw_dirhist_3='/home/sms/.atom/.apm'
+let g:netrw_dirhist_4='/home/sms/sandbox/debian8x64.vm'
+let g:netrw_dirhist_5='/home/sms/sandbox/ba-ia/irods/install'
+let g:netrw_dirhist_6='/home/sms/.homestead'
+let g:netrw_dirhist_7='/home/sms/.vim'
+let g:netrw_dirhist_8='/home/sms/sandbox/homestead-3.0.2'
